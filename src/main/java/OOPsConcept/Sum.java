@@ -15,10 +15,7 @@ public class Sum {
 	 public double sum(double x, double y)  { 
             return (x + y); 
 	    } 
-	public int()
-	{
-		
-	}
+	
 	
 }
 
